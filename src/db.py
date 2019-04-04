@@ -42,4 +42,4 @@ class User(db.Model):
 
     def verify_session_token(self, session_token):
         return session_token == self.session_token and \
-            datetime.date.now() < self.session_expiration
+            datetime.datetime.now() < self.session_expiration

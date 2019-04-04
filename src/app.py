@@ -101,3 +101,7 @@ def secret_message():
         return json.dumps({'error': 'Invalid session token.'})
 
     return json.dumps({'message': 'You have successfully implemented sessions.'})
+
+
+if __name__ == '__main__':
+    app.run(debug=True)

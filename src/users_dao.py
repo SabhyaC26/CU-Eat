@@ -36,6 +36,8 @@ def create_user(email, password):
     db.session.add(user)
     db.session.commit()
 
+    return True, user
+
 
 def renew_session(update_token):
     user = get_user_by_update_token(update_token)
