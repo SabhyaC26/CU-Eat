@@ -1,0 +1,10 @@
+Things to do:
+
+Backend:
+- build db class
+- write get/post requests
+- start google mail integration
+
+Frontend:
+- ios vs react (decide and proceed acc)
+
