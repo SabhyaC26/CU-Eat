@@ -4,10 +4,10 @@ Use a Trello board!
 
 Backend:
 - build db class
-- write the web scraper (scrapy or selenium)
-- write a script to output scraped data to csv files
-- write get/post requests
-- start google mail integration
+- write the web scraper using selenium - taking longer than expected! (no idea how long)
+- write a script to output scraped data to csv files (1 hr)
+- write get/post requests (2 hrs)
+- start google mail integration (1 hr)
 
 Frontend:
 - ios vs react (decide and proceed acc)
