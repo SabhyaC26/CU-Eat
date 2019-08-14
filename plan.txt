@@ -2,6 +2,11 @@ Things to do:
 
 Use a Trello board!
 
+Helpful Links:
+https://medium.com/@dushan14/create-a-web-application-with-python-flask-postgresql-and-deploy-on-heroku-243d548335cc
+https://medium.com/lyfepedia/sending-emails-with-gmail-api-and-python-49474e32c81f
+
+
 Backend:
 - build db class
 - write the web scraper using selenium - taking longer than expected! (no idea how long)
