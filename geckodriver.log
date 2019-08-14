@@ -74,3 +74,19 @@ console.error: BroadcastService:
 1555794166304	Marionette	INFO	Stopped listening on port 59002
 1555794168419	Marionette	INFO	Stopped listening on port 58926
 1555794169376	Marionette	INFO	Stopped listening on port 59131
+1565793834425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0p/9983bz9s4bzd5n_hzcj8qwtc0000gn/T/rust_mozprofile.tH87765nievw"
+1565793835233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565793835233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1565793835233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565793835233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565793837261	Marionette	INFO	Listening on port 60581
+1565793837269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=3.17&libraries=weather,geometry,visualization&language=en&sensor=false&key=AIzaSyAfHYFWKpcLoggTtrEqFff7zRXZdfCk6CI&callback=onGoogleMapsReady900, line 96: Error: Could not load "onion".
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565740805582%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
