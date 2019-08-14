@@ -1,7 +1,11 @@
 Things to do:
 
+Use a Trello board!
+
 Backend:
 - build db class
+- write the web scraper (scrapy or selenium)
+- write a script to output scraped data to csv files
 - write get/post requests
 - start google mail integration
 
