@@ -1,7 +1,5 @@
 Things to do:
 
-Get Aahil & Jamal on board and split tasks!
-
 Use a Trello board!
 
 Helpful Links:
@@ -10,6 +8,11 @@ https://medium.com/lyfepedia/sending-emails-with-gmail-api-and-python-49474e32c8
 
 
 Backend:
+
+--SCRAPING IS HARDER THAN EXPECTED--
+build backend assuming data has been scraped
+then do the rest!
+
 - build db class
 - write the web scraper using selenium - taking longer than expected! (no idea how long)
 - write a script to output scraped data to csv files (1 hr)
