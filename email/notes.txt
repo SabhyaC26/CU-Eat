@@ -1,1 +1,2 @@
 use simple google smtp to get this to run
+set up email -> cuswiperight@gmail.com
